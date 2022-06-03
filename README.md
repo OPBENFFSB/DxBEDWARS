@@ -17,4 +17,4 @@
 
 8] Start Server
 
-9] Issue the command /deop Bijju089 | In the console
+9] Enjoy <3
